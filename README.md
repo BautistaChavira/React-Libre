@@ -1,5 +1,5 @@
 Para esta tarea con react desarrollé una página dinámica con react y vite que funciona de forma parecida aunque simplificada como los servicios web para hacer diagramas.
-Básicamente permite crear nodos, moverlos por un lienzo, cambiarles el texto que contienen y enlzarlos entre sí como gustes.
+Básicamente permite crear nodos, moverlos por un lienzo, cambiarles el texto que contienen y enlazarlos entre sí como gustes.
 
 <img width="870" height="79" alt="image" src="https://github.com/user-attachments/assets/455c9fe6-2617-4ab3-ba6b-e3bde9aa9b34" />
 
