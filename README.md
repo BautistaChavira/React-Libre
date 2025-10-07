@@ -1,14 +1,14 @@
 Para esta tarea con react desarrollé una página dinámica con react y vite que funciona de forma parecida aunque simplificada como los servicios web para hacer diagramas.
 Básicamente permite crear nodos, moverlos por un lienzo, cambiarles el texto que contienen y enlzarlos entre sí como gustes.
 
+<img width="870" height="79" alt="image" src="https://github.com/user-attachments/assets/455c9fe6-2617-4ab3-ba6b-e3bde9aa9b34" />
+
 Hay una barra de herramientas arriba con las opciones Añadir Nodo, Enlazar, Desconectar y Exportar; y un lienzo donde puedes mover y editar el diagrama.
 
 Al ingresar a la página ya habrán dos nodos inconexos por defecto.
 
 La función de enlazar nodos funciona de manera muy sencilla. Los últimos dos nodos a los que se les dió click se verán resaltados en azul y rojo. El rojo es el último seleccionado, el que fue clickeado más reciente, el azul es el segundo ultimo nodo seleccionado
 la línea se creará al pulsar el boton de conectar nodos entre estos dos nodos resaltados con una flecha apuntando al nodo rojo (el último seleccionado).
-
-<img width="1168" height="819" alt="image" src="https://github.com/user-attachments/assets/e86b6376-a860-437a-b672-03280227bb73" />
 
 Antes de enlazar
 
