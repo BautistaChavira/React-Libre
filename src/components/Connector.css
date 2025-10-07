@@ -1,0 +1,11 @@
+.connector {
+  position: absolute;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.connector-line {
+  stroke: black;
+  stroke-width: 2px;
+  transition: all 0.2s ease-out;
+}
