@@ -34,6 +34,16 @@ Los componentes de Nodo y Conector tienen sus propios Css para mostrar las flech
 <img width="174" height="308" alt="{833A45E8-EB48-4E21-B388-C71CADFE05DD}" src="https://github.com/user-attachments/assets/a54fa93a-1e1e-482b-98a8-28bd67fc0dff" />
 
 
+En cuanto al despligue, usé una librería llamada html2canvas, sirve para exportar el diagrama a pdf, ya esta incluida en los archivos de configuración del proyecto así que hacer install debería instalar todo incluyendo esta librería extra aparte de todas las dependencias de vite y react
+
+<img width="343" height="174" alt="{AA221BF3-DC7E-4E99-82B0-6231ECB6EE4F}" src="https://github.com/user-attachments/assets/029eb110-514f-4c92-b1d6-a40dd69c9c53" />
+
+
+Si quieres correrlo de forma local puedes hacer la build o correrlo en el entorno de desarrollo según lo que prefieras. En railway no fue necesario hacer ningún cambio. Simplemente le dices que construya la página a partir de este repositorio y funciona
+
+
+
+
 
 
 
